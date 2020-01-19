@@ -206,13 +206,13 @@
 	},
 	{
 		"abr": "b1battledroid",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_BOneDroid"
 	},
 	{
 		"abr": "b2battledroid",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_BTwoDroid"
 	},
@@ -626,7 +626,7 @@
 	},
 	{
 		"abr": "chiss",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Chiss"
 	},
@@ -800,7 +800,7 @@
 	},
 	{
 		"abr": "clonetrooper",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_FettClone"
 	},
@@ -1640,19 +1640,19 @@
 	},
 	{
 		"abr": "hk-47assassindroid",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_HK47Droid"
 	},
 	{
 		"abr": "hk-50assassindroid",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_HK50Droid"
 	},
 	{
 		"abr": "hk-51assassindroid",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_HK51Droid"
 	},
@@ -1928,7 +1928,7 @@
 	},
 	{
 		"abr": "jawa",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Jawa"
 	},
@@ -2414,7 +2414,7 @@
 	},
 	{
 		"abr": "moncalamari",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_MonCalamari"
 	},
@@ -2822,7 +2822,7 @@
 	},
 	{
 		"abr": "quarren",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Quarren"
 	},
@@ -2852,7 +2852,7 @@
 	},
 	{
 		"abr": "rakata",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Rakata"
 	},
@@ -3548,7 +3548,7 @@
 	},
 	{
 		"abr": "t-seriestacticaldroid",
-		"price": 1250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_TacticalDroid"
 	},
@@ -3614,7 +3614,7 @@
 	},
 	{
 		"abr": "twilek",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Twilek"
 	},
@@ -3860,7 +3860,7 @@
 	},
 	{
 		"abr": "zabrak",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Zabrak"
 	},
@@ -3869,7 +3869,205 @@
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "O21_OuterRim_ZersiumRaw"
+	},
+	{
+		"abr": "air-conindoorunit",
+		"price": 82,
+		"category": "Hygiene",
+		"defname": "AirconIndoorUnit"
+	},
+	{
+		"abr": "air-conoutdoorunit",
+		"price": 458,
+		"category": "Hygiene",
+		"defname": "AirConOutdoorUnit"
+	},
+	{
+		"abr": "basin",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "bathtub",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
+	},
+	{
+		"abr": "biosolids",
+		"price": 0,
+		"category": "Waste",
+		"defname": "Biosolids"
+	},
+	{
+		"abr": "biosolidscomposter",
+		"price": 146,
+		"category": "Hygiene",
+		"defname": "BiosolidsComposter"
+	},
+	{
+		"abr": "ceilingfan1x1",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanS"
+	},
+	{
+		"abr": "ceilingfan2x2",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFan"
+	},
+	{
+		"abr": "electricboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "ElectricBoiler"
+	},
+	{
+		"abr": "electricpump",
+		"price": 316,
+		"category": "Hygiene",
+		"defname": "ElectricPump"
+	},
+	{
+		"abr": "firesprinkler",
+		"price": 104,
+		"category": "Hygiene",
+		"defname": "FireSprinkler"
+	},
+	{
+		"abr": "fountain",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "Fountain"
+	},
+	{
+		"abr": "gasboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "GasBoiler"
+	},
+	{
+		"abr": "hottub",
+		"price": 800,
+		"category": "Hygiene",
+		"defname": "HotTub"
+	},
+	{
+		"abr": "hotwatertank",
+		"price": 245,
+		"category": "Hygiene",
+		"defname": "HotWaterTank"
+	},
+	{
+		"abr": "irrigationsprinkler",
+		"price": 102,
+		"category": "Hygiene",
+		"defname": "IrrigationSprinkler"
+	},
+	{
+		"abr": "kitchensink",
+		"price": 167,
+		"category": "Hygiene",
+		"defname": "KitchenSink"
+	},
+	{
+		"abr": "largeradiator",
+		"price": 252,
+		"category": "Hygiene",
+		"defname": "RadiatorLarge"
+	},
+	{
+		"abr": "latrine",
+		"price": 55,
+		"category": "Hygiene",
+		"defname": "PitLatrine"
+	},
+	{
+		"abr": "litterbox",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "LitterBox"
+	},
+	{
+		"abr": "logboiler",
+		"price": 642,
+		"category": "Hygiene",
+		"defname": "LogBoiler"
+	},
+	{
+		"abr": "plumbingvalve",
+		"price": 50,
+		"category": "Hygiene",
+		"defname": "plumbingValve"
+	},
+	{
+		"abr": "powershower",
+		"price": 170,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "radiator",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorStuffed"
+	},
+	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "simpleshower",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": 153,
+		"category": "Hygiene",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "washingmachine",
+		"price": 433,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "waterbutt",
+		"price": 89,
+		"category": "Furniture",
+		"defname": "WaterButt"
+	},
+	{
+		"abr": "watertub",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
 	}
 	],
-	"total": 645
+	"total": 678
 }
