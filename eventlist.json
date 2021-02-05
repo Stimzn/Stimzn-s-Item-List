@@ -12,7 +12,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -66,13 +66,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -89,11 +84,6 @@
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animaltame",
@@ -222,17 +212,12 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,7 +257,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -282,12 +267,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -306,11 +291,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -324,7 +304,72 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 65
+	"total": 74
 }
